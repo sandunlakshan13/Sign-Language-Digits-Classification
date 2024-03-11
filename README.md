@@ -1,1 +1,2 @@
-"# Sign-Language-Digits-Classification" 
+Sign Language Digits Classification project utilizing the Sign Language Digits dataset from Kaggle. The project implements a fine-tuned MobileNet model for accurate classification. Users can leverage this codebase to train and evaluate models for recognizing hand signs representing digits. The aim is to facilitate the development of systems that aid individuals with hearing impairments in communicating through sign language.
+
